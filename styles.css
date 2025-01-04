@@ -1,0 +1,12 @@
+ul{
+    color: red;
+    font-size:  30px;
+    background-color: violet;
+    padding-left: 20px;
+}
+ol{
+    color: blue;
+    font-size:  20px;
+    background-color: tomato;
+    padding-left: 20px;
+}
